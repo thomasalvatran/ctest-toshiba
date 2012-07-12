@@ -1,3 +1,4 @@
+//http://www.javatutorialhub.com/java-abstract-class-method.html
 abstract class Shape{
    final int b = 20;
    public void display(){
